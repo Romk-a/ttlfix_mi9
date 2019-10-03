@@ -1,0 +1,7 @@
+id=ttlfix_mi9
+name=Mi9 TTL Fix module
+version=v1.4
+versionCode=4
+author=Roman Gubarev
+description=Adds support for TTL Target module on stock MIUI kernels of All SD855 Xiaomi Mi9 variants and set (fix) TTL to 64. 
+minMagisk=17000
