@@ -124,8 +124,9 @@ REPLACE="
 print_modname() {
   ui_print "*******************************"
   ui_print "  TTL Fix (TTL Target module)  "
-  ui_print " for stock Xiaomi Mi9, kernel  "
-  ui_print "     by Roman Gubarev          "
+  ui_print "    for stock Xiaomi Mi9,      "
+  ui_print "   Redmi K20 Pro/ Mi 9T Pro    "
+  ui_print "       by Roman Gubarev        "
   ui_print "*******************************"
 }
 
@@ -166,6 +167,7 @@ device_fn() {
 DEVFND=0
 DEVICES="
 cepheus
+raphael
 "
 # Device check
 for ITEM in $DEVICES; do

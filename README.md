@@ -5,7 +5,7 @@
 This module adds a kernel module TTL Target for changing packets TTL and sets TTL to 64 by default.
 
 ## Requirements:
- - Xiaomi Mi9 (may be all SD855 variants)
+ - Xiaomi Mi9 (Mi 9T Pro/K20 Pro)
  - Android 8/9/10 based MIUI OS with Stock MIUI Kernel (No custom rom or custom kernel support, won't work on any custom rom)
  - Magisk 17+
  - root
@@ -21,4 +21,5 @@ This module adds a kernel module TTL Target for changing packets TTL and sets TT
  - [@Didgeridoohan](https://forum.xda-developers.com/member.php?u=4667597) for help with magisk module structure and some scripts.
 
 ## Changelog:
+ - version 2   - added support Mi 9T Pro/K20 Pro
  - version 1.4 - initial release
